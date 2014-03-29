@@ -11,6 +11,12 @@ Getting started
 Libraries
 =========
 
+Build tool
+----------
+
+* http://ocaml.org/learn/tutorials/compiling_with_omake.html
+* ``opam install omake``
+
 Postgres client
 ---------------
 
