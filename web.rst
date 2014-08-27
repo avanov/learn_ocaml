@@ -1,7 +1,7 @@
 Web Programming
 ===============
 
-Start learning Ocsigen from `this section <http://ocsigen.org/tutorial/interaction>`_.
+Start learning Ocsigen from `this section <http://ocsigen.org/tuto/manual/interaction>`_.
 
 
 RESTful services
