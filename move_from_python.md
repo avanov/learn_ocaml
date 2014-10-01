@@ -1,8 +1,14 @@
+Benefits:
+
+* low memory footprint;
+* performance;
 * static type checking;
 * type inference;
 * pattern matching;
 * closures;
-* imperative programming & practical mutability;
+* imperative programming & practical mutability.
+
+Alternatives:
 
 * pip, pyenv, virtualenv &#8594;  OPAM ( http://opam.ocaml.org/ )
 * Vast Stdlib &#8594;  http://caml.inria.fr/pub/docs/manual-ocaml-4.02/stdlib.html , https://ocaml.janestreet.com/ocaml-core/latest/doc/
